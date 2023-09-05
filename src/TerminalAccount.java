@@ -27,7 +27,7 @@ public class TerminalAccount {
         int accountNumber = getIntInput("Account number: ");
         double accountBalance = getDoubleInput("What is the balance in your bank account? ");
 
-        System.out.println("  ");
+        System.out.println("   ");
 
         System.out.println("Hello, " + accountName + ", thank you for creating an account with our bank.");
         System.out.println("Your branch is " + branchNumber + ", account number: " + accountNumber +
