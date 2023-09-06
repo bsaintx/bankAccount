@@ -20,7 +20,7 @@ public class TerminalAccount {
 
         System.out.println("Welcome to the Bank Account Creation System!");
 
-        System.out.println("   ");
+        System.out.println("  ");
 
         String accountName = getInput("Type your name: ");
         String branchNumber = getInput("Please, now type your branch number: ");
